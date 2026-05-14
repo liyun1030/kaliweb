@@ -1,0 +1,9 @@
+XSS（Cross Site Script，跨站脚本攻击）
+Cross Site Request Forgery (CSRF， 跨站请求伪造)
+Session hijacking attack（Session 挟持）
+File inclusion vulnerability（文件包含漏洞）
+file upload attack（文件上传攻击）
+Weak Password Vulnerability（弱密码暴力破解）
+webshell（web 后门攻击）
+SQL Injection（SQL 注入）
+Distributed Denial of Service （DDoS， 分布式拒绝服务）
